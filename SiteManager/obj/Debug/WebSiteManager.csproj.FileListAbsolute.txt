@@ -1,0 +1,12 @@
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\DuoMall.WebSiteManager.pdb
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\Microsoft.Web.Administration.dll
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\WebSiteManager.csproj.CoreCompileInputs.cache
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\DuoMall.WebSiteManager.pdb
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\WebSiteManager.csprojResolveAssemblyReference.cache
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\DuoMall.WebSiteManager.exe.config
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\DuoMall.WebSiteManager.exe
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\DuoMall.WebSiteManager.exe
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\DuoMall.SiteManager.Common.dll
+D:\Work\Project\IISTools\WebSiteManager\bin\Debug\DuoMall.SiteManager.Common.pdb
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\WebSiteManager.csproj.GenerateResource.Cache
+D:\Work\Project\IISTools\WebSiteManager\obj\Debug\DuoMall.WebSiteManager.ProjectInstaller.resources

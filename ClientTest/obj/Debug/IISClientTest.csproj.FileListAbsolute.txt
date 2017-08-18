@@ -1,0 +1,14 @@
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\IISClientTest.csprojResolveAssemblyReference.cache
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.Properties.Resources.resources
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\IISClientTest.csproj.GenerateResource.Cache
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\IISClientTest.csproj.CoreCompileInputs.cache
+D:\Work\Project\IISTools\IISClientTest\bin\Debug\DuoMall.IISClientTest.exe.config
+D:\Work\Project\IISTools\IISClientTest\bin\Debug\DuoMall.IISClientTest.exe
+D:\Work\Project\IISTools\IISClientTest\bin\Debug\DuoMall.IISClientTest.pdb
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.exe
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.pdb
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.EditSiteForm.resources
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.Form1.resources
+D:\Work\Project\IISTools\IISClientTest\obj\Debug\DuoMall.IISClientTest.SiteInfoForm.resources
+D:\Work\Project\IISTools\IISClientTest\bin\Debug\DuoMall.SiteManager.Common.dll
+D:\Work\Project\IISTools\IISClientTest\bin\Debug\DuoMall.SiteManager.Common.pdb
